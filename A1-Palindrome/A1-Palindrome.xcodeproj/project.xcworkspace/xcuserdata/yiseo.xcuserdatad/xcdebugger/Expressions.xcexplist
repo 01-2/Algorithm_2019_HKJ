@@ -4,14 +4,6 @@
    <ContextStates>
       <ContextState
          contextName = "main:palin.cpp">
-         <PersistentStrings>
-            <PersistentString
-               value = "target.front()">
-            </PersistentString>
-            <PersistentString
-               value = "target.back()">
-            </PersistentString>
-         </PersistentStrings>
       </ContextState>
    </ContextStates>
 </VariablesViewState>
