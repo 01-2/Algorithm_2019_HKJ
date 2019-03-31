@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "find_optimal_range():oil.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "call_num">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "divide_range(int, int):oil.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "main:oil.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "call_num">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "bin_search(Pos, int):oil.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "call_num">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

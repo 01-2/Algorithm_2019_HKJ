@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "trace_route(std::__1::vector&lt;Pos, std::__1::allocator&lt;Pos&gt; &gt;, int):battery.cpp">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

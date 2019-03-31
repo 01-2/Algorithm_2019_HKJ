@@ -45,13 +45,6 @@ Pos get_center(Pos a, Pos b){
 }
 
 void get_min_distance(Range r, Pos a, Pos b, Pos p){
-    
-    /*
-     if((ceil(r.left) == ceil(r.mid)) && (ceil(r.right) == ceil(r.mid))
-       || (r.left == r.right)){
-        min_dist = ceil(r.mid);
-        return;
-    }*/
     if(((r.left == r.right) && (r.mid == r.right)) || (r.left == r.right)){
         min_dist = ceil(r.mid);
         return;
@@ -86,7 +79,6 @@ int main(int argc, const char * argv[]) {
     ifstream inFile("bridge.inp");
     ofstream outFile("bridge.out");
     
-    // Input process
     if(inFile.fail()){
         cout << "File read error" << endl;
         return 1;
@@ -112,7 +104,6 @@ int main(int argc, const char * argv[]) {
     target.mid = get_distance(pos_list[2], temp);
     
     get_min_distance(target, pos_list[0], pos_list[1], pos_list[2]);
-    cout << static_cast<int>(min_dist) << endl;
     outFile << static_cast<int>(min_dist) << endl;
     outFile.close();
     return 0;

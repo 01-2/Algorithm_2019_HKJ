@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>9</integer>
+	<key>logs</key>
+	<dict>
+		<key>34406EF4-C4C5-46A2-8897-F72A51FFBAA1</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>34406EF4-C4C5-46A2-8897-F72A51FFBAA1.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>A3-Battery project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>A3-Battery</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build A3-Battery</string>
+			<key>timeStartedRecording</key>
+			<real>574842983.17913306</real>
+			<key>timeStoppedRecording</key>
+			<real>574842983.80381799</real>
+			<key>title</key>
+			<string>Build A3-Battery</string>
+			<key>uniqueIdentifier</key>
+			<string>34406EF4-C4C5-46A2-8897-F72A51FFBAA1</string>
+		</dict>
+		<key>8F0C7631-BAB4-434D-996B-3DFC011DA64C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>8F0C7631-BAB4-434D-996B-3DFC011DA64C.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>A3-Battery project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>A3-Battery</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build A3-Battery</string>
+			<key>timeStartedRecording</key>
+			<real>574842993.69686496</real>
+			<key>timeStoppedRecording</key>
+			<real>574842994.33359599</real>
+			<key>title</key>
+			<string>Build A3-Battery</string>
+			<key>uniqueIdentifier</key>
+			<string>8F0C7631-BAB4-434D-996B-3DFC011DA64C</string>
+		</dict>
+		<key>A32953B4-1DCC-4B97-A908-DF57FBDF884E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>A32953B4-1DCC-4B97-A908-DF57FBDF884E.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>A3-Battery project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>A3-Battery</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build A3-Battery</string>
+			<key>timeStartedRecording</key>
+			<real>574834245.76514602</real>
+			<key>timeStoppedRecording</key>
+			<real>574834246.44248998</real>
+			<key>title</key>
+			<string>Build A3-Battery</string>
+			<key>uniqueIdentifier</key>
+			<string>A32953B4-1DCC-4B97-A908-DF57FBDF884E</string>
+		</dict>
+		<key>C53EFC66-ED03-4112-974D-3748735090F1</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>C53EFC66-ED03-4112-974D-3748735090F1.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>A3-Battery project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>A3-Battery</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build A3-Battery</string>
+			<key>timeStartedRecording</key>
+			<real>574834221.71805096</real>
+			<key>timeStoppedRecording</key>
+			<real>574834222.73425806</real>
+			<key>title</key>
+			<string>Build A3-Battery</string>
+			<key>uniqueIdentifier</key>
+			<string>C53EFC66-ED03-4112-974D-3748735090F1</string>
+		</dict>
+		<key>D11225CF-84AE-491B-BD66-34EA438AFF7E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>D11225CF-84AE-491B-BD66-34EA438AFF7E.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>A3-Battery project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>A3-Battery</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build A3-Battery</string>
+			<key>timeStartedRecording</key>
+			<real>574834325.93694305</real>
+			<key>timeStoppedRecording</key>
+			<real>574834326.02035105</real>
+			<key>title</key>
+			<string>Build A3-Battery</string>
+			<key>uniqueIdentifier</key>
+			<string>D11225CF-84AE-491B-BD66-34EA438AFF7E</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
