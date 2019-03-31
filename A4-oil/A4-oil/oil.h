@@ -23,7 +23,7 @@ void initial( ) {
     Oil_sz      = 19;
     Oil_beg     =  2;
     Oil_end     = 11;
-    call_limit  = 10;
+    call_limit  = 1000;
 
     /* Sample Data 2 */
 //    Oil_sz      = 1000;
@@ -58,7 +58,7 @@ int observe( int i, int j ) {
     /* 호출 횟수 초과 */
     if( call_num > call_limit ){
         printf("%d %d %d\n", 0, 0, call_num);
-        // exit(0);
+        exit(0);
     }
 
     /* 3. index 오류 */

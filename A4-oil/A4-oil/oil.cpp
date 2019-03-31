@@ -34,26 +34,27 @@ vector<Pos> divide_range(int a, int b){
 }
 
 int find_str_pt(Pos range){
-    int checker = -1;
     int position = 0;
+    if(range.a == range.b) return range.a;
     
     vector<Pos> d_range;
     d_range = divide_range(range.a, range.b);
-    checker = observe(d_range[0].a, d_range[0].b);
+    int checker = observe(d_range[0].a, d_range[0].b);
     
     if(checker == 1) position = d_range[0].a;
     else if(checker == 2) position = find_str_pt(d_range[0]);
     else position = find_str_pt(d_range[1]);
+    
     return position;
 }
 
 int find_fin_pt(Pos range){
-    int checker = -1;
     int position = 0;
+    if(range.a == range.b) return range.b;
     
     vector<Pos> d_range;
     d_range = divide_range(range.a, range.b);
-    checker = observe(d_range[1].a, d_range[1].b);
+    int checker = observe(d_range[1].a, d_range[1].b);
     
     if(checker == 1) position = d_range[1].b;
     else if(checker == 2) position = find_fin_pt(d_range[1]);
@@ -67,7 +68,6 @@ Pos find_optimal_range(){
     
     inp.a = 0;
     inp.b = oil_size()-1;
-    
     opt_ans.a = find_str_pt(inp);
     opt_ans.b = find_fin_pt(inp);
 
