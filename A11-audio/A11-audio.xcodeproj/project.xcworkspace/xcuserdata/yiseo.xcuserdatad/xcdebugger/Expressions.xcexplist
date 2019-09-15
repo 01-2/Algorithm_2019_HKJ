@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "input_data():audio.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "main:audio.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "ban_num">
+            </PersistentString>
+            <PersistentString
+               value = "min_dist">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "graph_search(Audio):audio.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "result">
+            </PersistentString>
+            <PersistentString
+               value = "relation[idx-1]">
+            </PersistentString>
+            <PersistentString
+               value = "target.near">
+            </PersistentString>
+            <PersistentString
+               value = "target.near[i]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "graph_search(Audio, int):audio.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "result">
+            </PersistentString>
+            <PersistentString
+               value = "target.near[i]">
+            </PersistentString>
+            <PersistentString
+               value = "min_dist">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "get_all_distance():audio.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "temp_stack[j]">
+            </PersistentString>
+            <PersistentString
+               value = "temp_stack[i]">
+            </PersistentString>
+            <PersistentString
+               value = "w_data[temp_stack[i]-1].near">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

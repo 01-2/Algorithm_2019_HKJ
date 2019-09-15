@@ -1,0 +1,23 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "8CAE20718742F431B97A7FFE3434A2699F43AFD6",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "8CAE20718742F431B97A7FFE3434A2699F43AFD6" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "1FC7000A-5495-4CD4-B4FD-DF20F5FC624F",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "8CAE20718742F431B97A7FFE3434A2699F43AFD6" : "Algorithm_2019_HKJ\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "A13-polygon",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "A13-polygon\/A13-polygon.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/01-2\/Algorithm_2019_HKJ.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "8CAE20718742F431B97A7FFE3434A2699F43AFD6"
+    }
+  ]
+}

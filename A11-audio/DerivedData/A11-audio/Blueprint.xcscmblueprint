@@ -1,0 +1,23 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "8CAE20718742F431B97A7FFE3434A2699F43AFD6",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "8CAE20718742F431B97A7FFE3434A2699F43AFD6" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "E69899F6-039A-4437-BA12-948DEEECBE2C",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "8CAE20718742F431B97A7FFE3434A2699F43AFD6" : "Algorithm_2019_HKJ\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "A11-audio",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "A11-audio\/A11-audio.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/01-2\/Algorithm_2019_HKJ.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "8CAE20718742F431B97A7FFE3434A2699F43AFD6"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "main:polygon.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "pos_list">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "check_concave():polygon.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "get_angle(pos, pos, pos):polygon.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "none_check():polygon.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "pos_list.size()">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

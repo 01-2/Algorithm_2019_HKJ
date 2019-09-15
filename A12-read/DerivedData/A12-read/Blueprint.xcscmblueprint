@@ -1,0 +1,23 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "8CAE20718742F431B97A7FFE3434A2699F43AFD6",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "8CAE20718742F431B97A7FFE3434A2699F43AFD6" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "327B75CD-00CE-4BB7-8293-88EE1B6BA795",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "8CAE20718742F431B97A7FFE3434A2699F43AFD6" : "Algorithm_2019_HKJ\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "A12-read",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "A12-read\/A12-read.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/01-2\/Algorithm_2019_HKJ.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "8CAE20718742F431B97A7FFE3434A2699F43AFD6"
+    }
+  ]
+}

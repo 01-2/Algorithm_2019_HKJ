@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>D07DA526-870C-4B75-AC7B-ACFA43E12351</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>D07DA526-870C-4B75-AC7B-ACFA43E12351.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>A10-diet project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>A10-diet</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug A10-diet</string>
+			<key>timeStartedRecording</key>
+			<real>579853770.31999397</real>
+			<key>timeStoppedRecording</key>
+			<real>579853775.41772497</real>
+			<key>title</key>
+			<string>Debug A10-diet</string>
+			<key>uniqueIdentifier</key>
+			<string>D07DA526-870C-4B75-AC7B-ACFA43E12351</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

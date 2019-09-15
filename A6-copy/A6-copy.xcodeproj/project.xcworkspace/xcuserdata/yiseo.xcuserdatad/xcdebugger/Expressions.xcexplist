@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "get_LCS(std::__1::basic_string&lt;wchar_t, std::__1::char_traits&lt;wchar_t&gt;, std::__1::allocator&lt;wchar_t&gt; &gt;, std::__1::basic_string&lt;wchar_t, std::__1::char_traits&lt;wchar_t&gt;, std::__1::allocator&lt;wchar_t&gt; &gt;):main.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "base[i-1]">
+            </PersistentString>
+            <PersistentString
+               value = "LCS[t_size-1][b_size-1]">
+            </PersistentString>
+            <PersistentString
+               value = "base[0]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "get_LCS(std::__1::basic_string&lt;wchar_t, std::__1::char_traits&lt;wchar_t&gt;, std::__1::allocator&lt;wchar_t&gt; &gt;, std::__1::basic_string&lt;wchar_t, std::__1::char_traits&lt;wchar_t&gt;, std::__1::allocator&lt;wchar_t&gt; &gt;):copy.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "target.size()">
+            </PersistentString>
+            <PersistentString
+               value = "base.size()">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
